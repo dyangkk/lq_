@@ -59,7 +59,7 @@ void key_proc(void)
 		else //单击 
 		{
 			k_down_num=0;
-			if(k_time_1<80)   
+			if(k_time_1<80)   //单击 
 			{
 				switch(k_temp)
 				{
